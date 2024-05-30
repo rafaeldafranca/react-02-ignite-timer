@@ -10,3 +10,4 @@ Projeto do curso de react do Rocketseat.
 - npm i zod  `validar formularios`
 - npm i @hookform/resolvers `integracao hookform com validadores tipo o zod`
 - npm i date-fns  `tratamento de data e hora`
+- npm i immer
