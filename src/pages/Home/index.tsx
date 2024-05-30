@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState } from 'react'
+import { createContext, useState } from 'react'
 import { HandPalm, Play } from 'phosphor-react'
 import { HomeContainer, StartCownDownButton, StopCownDownButton } from './style'
 import { NewCycleForm } from './components/NewCycleForm'
